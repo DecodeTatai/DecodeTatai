@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Bodhiswatwa Chowdhury</h1>
+<h1 align="center">Hi 👋,  I'm Bodhiswatwa Chowdhury</h1>
 <h3 align="center">A growth-oriented Full Stack Developer from India, passionately building scalable solutions and exploring cutting-edge AI integrations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decodetatai&label=Profile%20views&color=0e75b6&style=flat" alt="decodetatai" /> </p>
